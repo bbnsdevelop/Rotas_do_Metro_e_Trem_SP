@@ -120,6 +120,7 @@ for node_caminho in node.path():
   
 ```
 # Descrição do percurso:
+```
 Estação: Jundiaí
 Estação: Várzea Paulista
 Estação: Campo Limpo Paulista
@@ -149,7 +150,7 @@ Estação: Mauá
 Estação: Guapituba
 Estação: Ribeirão Pires
 Estação: Rio Grande Da Serra
-
+```
 
 # IA com algoritimo A* e busca gulosa - para direcionar o melhor percurso
 ![image](https://user-images.githubusercontent.com/36892558/145660724-28e32912-dc49-4c72-ae42-9c869cc67300.png)
