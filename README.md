@@ -2,6 +2,17 @@
 Este trabalho tem como objetivo apresentar para o usuário, qual a rota mais rápida para navegar nos trens e metrô de Saão Paulo.
 Utilizaremos os dados do GeoSampa para analisar os dados, usaremos a IA AIMA para solucionar nosso Problema e por fim, também usaremos os algoritmos A-Estrela e busca Gulosa. 
 
+# Pesquisa de campo:
+* você acha complicado ir de uma estação de metrô para outra, fazendo baldeação?
+![image](https://user-images.githubusercontent.com/36892558/145716293-cdbfd90a-1cf6-45c1-a228-bec9e52e9b95.png)
+
+* Gostaria que houvesse um APP (programa), que te mostrasse a melhor forma de chegar no destino final?
+![image](https://user-images.githubusercontent.com/36892558/145716316-77310643-043d-4987-912b-2229730ade08.png)
+
+
+# Código - Google Colab:
+* https://colab.research.google.com/drive/1S2UxB0CSFsO_XKjUF7CPBTWkA3NMszgk#scrollTo=0MVWTpMO9Mh7
+
 
 # API
 Ultilizaremos a API GeoSampa para consultar as linhas metropolitana do estado de São Paulo, e com bases nessas informações nossa IA irá definir uma melhor rota a ser tomada.
