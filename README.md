@@ -1,5 +1,5 @@
 # Trabalho de conclusão do curso de Ciências da computação - Rotas das linhas metropolitana de São Paulo
-Este trabalho tem como objetivo apresentar para o usuário, qual a rota mais rápida para navegar nos trens e metrô de Saão Paulo.
+Este trabalho tem como objetivo apresentar para o usuário, qual a rota mais rápida para navegar nos trens e metrô de São Paulo.
 Utilizaremos os dados do GeoSampa para analisar os dados, usaremos a IA AIMA para solucionar nosso Problema e por fim, também usaremos os algoritmos A-Estrela e busca Gulosa. 
 
 # Pesquisa de campo:
